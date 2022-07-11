@@ -1,0 +1,8 @@
+{
+  "name": "capatest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "11e04aaf"
+}
